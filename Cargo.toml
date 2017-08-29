@@ -1,0 +1,8 @@
+[package]
+name = "gameoflife"
+version = "0.1.0"
+authors = ["Tom Midson <midson.trc@gmail.com>"]
+
+[dependencies]
+minifb = "0.9.1"
+rand = "0.3"
